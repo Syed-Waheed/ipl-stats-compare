@@ -7,19 +7,7 @@ A Streamlit app to analyze IPL duels between batsmen and bowlers using historica
 
 ---
 
-## 🚀 Features
-- Select any batsman and bowler from IPL history
-- See duel stats like:
-  - Runs scored
-  - Balls faced
-  - Strike Rate
-  - Average
-  - 4s/6s count
-  - Confidence Meter
-  - Dominance Pie Chart
-- Clean, responsive UI with Streamlit and matplotlib
-  
----
+
 
 ## 📦 Tech Stack
 - Python
@@ -41,7 +29,6 @@ A Streamlit app to analyze IPL duels between batsmen and bowlers using historica
 ## Acknowledgements
 - Kaggle
 - Streamlit
-
 ---
 
 ## Acknowledgements
